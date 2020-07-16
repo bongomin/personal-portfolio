@@ -1,0 +1,26 @@
+
+container{
+  width: 100%;
+}
+
+.menuCol{
+  padding:0px !important;
+}
+.contentCol{
+  padding: 0px !important;
+}
+.fixedWrapperDiv{
+  background-color: #181c2b;
+  margin: 0px;
+  border-right: 2px solid #2d344d;
+  position: fixed;
+  padding: 30px;
+}
+.contentWrapperDiv{
+  color:black;
+  /* background-color:#181c2b; */
+  background:#10121b;
+  padding: 10px;
+  margin: 0px 0px 0px 56px;
+  position: relative;
+}

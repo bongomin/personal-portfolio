@@ -1,0 +1,13 @@
+.profileImage{
+   width: 200px;
+   height: 200px;
+   border-bottom: 5px solid #2d344d;
+   border-radius: 50%;
+   margin-top: -5px;
+}
+
+.imageDiv{
+   border-bottom: 1px solid #2d344d;
+   margin: 0px;
+   padding: 16px;
+}

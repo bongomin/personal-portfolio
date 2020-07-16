@@ -1,0 +1,65 @@
+.mi-home-area {
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    position: relative;
+    z-index: 1;
+    margin-left: -300px;
+}
+.mi-home-content {
+   text-align: center;
+   padding: 50px 80px;
+}
+.mi-home-content p {
+    margin-top: 15px;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    color: #a4acc4;
+}
+.mi-home-content .mi-socialicons {
+   margin-top: 20px;
+}
+.mi-socialicons {
+   padding-left: 0;
+   margin-bottom: 0;
+}
+.mi-home-content h1 {
+   font-weight: 700;
+   font-family: Nunito,sans-serif;
+   letter-spacing: 2px;
+}
+h1, h2, h3, h4, h5, h6 {
+   font-family: Nunito,sans-serif;
+   color: #fff;
+}
+.mi-home-content li {
+   display: inline-block;
+*display: inline;
+zoom: 1;
+padding: 10px;
+font-size: 36px;
+border: 2px solid #077eff;
+height: 70px;
+width: 70px;
+border-radius: 50%;
+margin: 20px;
+color: #a4acc4;
+
+}
+
+.mi-home-content li :hover{
+   cursor: pointer;
+}
+.color-theme{
+   color: #077eff;
+}
+.resumeButton{
+   margin-left: 400px;
+   margin-top: 50px;
+}
+svg {
+   overflow: hidden;
+   vertical-align: middle;
+   margin-top: -16px;
+}

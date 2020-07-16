@@ -1,0 +1,39 @@
+.listDiv ul{
+    margin: 0px;
+    width: 100%;
+    padding: 36px 5px;
+}
+.listDiv li{
+   color: #ffff;
+    padding: 12px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: -29px;
+    margin-top: 20px;
+    list-style: none;
+    letter-spacing:2px
+    
+}
+.listDiv li:first-child{
+   background-color:#077eff;
+   color: #a4acc4;
+}
+.listDiv li :hover{
+   background-color: #077eff;
+   opacity: 0.5;
+   z-index: 1;
+}
+
+/* li Link :hover{
+   ext-transform: uppercase;
+    font-size: .94rem;
+    letter-spacing: 1px;
+    display: block;
+    padding: 5px 0;
+    color: #a4acc4;
+    transition: all .4s ease-out;
+    font-weight: 600;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+} */
